@@ -53,7 +53,7 @@ class linked list
     }
     else
     {
-        cout<<"item not founded"<<endl;
+        cout<<"item not found"<<endl;
 
     }
 };
